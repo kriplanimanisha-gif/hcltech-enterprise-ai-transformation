@@ -794,6 +794,8 @@ These recommendations are explicitly aligned with the final CEO/Board recommenda
 
 # Transformation at a Glance
 
+```text
+
 
                     HCLTech AI-FIRST ENTERPRISE
                               │
@@ -828,7 +830,13 @@ These recommendations are explicitly aligned with the final CEO/Board recommenda
               AI-FIRST + RESILIENT + SCALABLE
                      HCLTech ENTERPRISE
 
+```
 
+### Architecture Visual
+
+![HCLTech_Enterprise_AI_Architecture](HCLTech_Enterprise_AI_Architecture.png)
+
+---
 
 **This case study takes HCLTech from understanding its AI-readiness gap, through people, process and technology transformation, into disruption resilience, change management and digital culture, and finally converts the strategy into a governed 24-month roadmap measured through an enterprise balanced scorecard.**
 
